@@ -13,8 +13,8 @@ install jupyter notebook in your commend prompt
   # pip install jupyter notebook (or)
              1.Download Anaconda community software for desktop
              2.Install the Anaconda Community
-             3.open jupyter notebook 
-             4.type the code & execute the given code
+             3.Open jupyter notebook 
+             4.Type the code & execute the given code
 
              
 # This project is designed to predict house prices based on various features using machine learning techniques.
