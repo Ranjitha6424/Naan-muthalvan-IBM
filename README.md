@@ -132,9 +132,10 @@ bash
 pip install -r requirements.txt
 
 # Dataset Source
-The dataset used in this project is sourced from [Kaggle].([https://www.kaggle.com/datasets] 
+The dataset used in this project is sourced from [Kaggle].([https://www.kaggle.com/datasets])
 
-To access and download the dataset, please visit [ https://www.kaggle.com/datasets/vedavyasv/usa-housing].
+To access and download the dataset, please visit ([ https:www.kaggle.com/dataset/vedavyas/usa-housing])
+Advanced Regression Techniques." You can download the dataset from[this link](https://www.kaggle.com/competitions/house-price-advanced-regression-techniques/code)
 
 # Usage
 Explain how to use your project once it's installed. Include instructions on how to load the dataset, preprocess the data, and train the machine learning model. Also, provide sample code for making predictions.
@@ -153,7 +154,9 @@ data = pd.read_csv('house_prices_dataset.csv')
 
 # Make predictions
 # ...
-Contributing
+
+# Contributing
+
 Explain how others can contribute to your project. Include guidelines for code contributions, bug reporting, and feature requests. Be sure to specify any code style, testing, or formatting conventions.
 
 Fork the project on GitHub.
@@ -161,17 +164,14 @@ Create a new branch for your feature or bug fix.
 Make your changes and commit them with descriptive messages.
 Push your branch to your forked repository.
 Submit a pull request to the main project repository.
-License
+
+# License
+
 This project is licensed under the Your License - see the LICENSE file for details.
 
 vbnet
-Copy code
 
-In this extended README template, we've added a section for the dataset source, providing information about where the data comes from and where users can access it. This adds transparency and credibility to your project, which is important in data-driven applications like house price prediction.
-
-
-
-Is this conversation helpful so far?
+In this extended README template, we've added a section for the dataset source, providing information about where the data comes from and where users can access it. This adds transparency and credibility to your project, which is important in data-driven applications like house price prediction
 
 
 
