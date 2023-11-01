@@ -135,7 +135,8 @@ pip install -r requirements.txt
 The dataset used in this project is sourced from [Kaggle].([https://www.kaggle.com/datasets])
 
 To access and download the dataset, please visit ([ https:www.kaggle.com/dataset/vedavyas/usa-housing])
-Advanced Regression Techniques." You can download the dataset from[this link](https://www.kaggle.com/competitions/house-price-advanced-regression-techniques/code)
+Advanced Regression Techniques." You can download the dataset from[this link]
+  (https://www.kaggle.com/competitions/house-price-advanced-regression-techniques/code)
 
 # Usage
 Explain how to use your project once it's installed. Include instructions on how to load the dataset, preprocess the data, and train the machine learning model. Also, provide sample code for making predictions.
